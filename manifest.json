@@ -1,0 +1,17 @@
+{
+  "name": "EDY ENERGY — Energético de Alta Voltagem",
+  "short_name": "EDY ENERGY",
+  "description": "Seis sabores explosivos de energético EDY ENERGY 473 ml. Zero açúcar, 1000 mg de taurina e 150 mg de cafeína.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0c10",
+  "theme_color": "#56c41d",
+  "icons": [
+    {
+      "src": "./assets/logo-mark.webp",
+      "sizes": "254x249",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
