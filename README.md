@@ -10,7 +10,7 @@ Experiência web 3D para uma marca conceito de energético. Explore seis sabores
 
 ## Apresentação em vídeo
 
-[![Assistir à apresentação do EDY Energy](assets/edy-energy-apresentacao.jpg)](https://github.com/EDY075/edy-energy/releases/download/apresentacao-2026-11/edy-energy-apresentacao-github.mp4)
+https://github.com/user-attachments/assets/65adb7d7-507b-4379-a666-8158e0b590cb
 
 [Baixar vídeo de apresentação (MP4)](https://github.com/EDY075/edy-energy/releases/download/apresentacao-2026-11/edy-energy-apresentacao-github.mp4)
 
