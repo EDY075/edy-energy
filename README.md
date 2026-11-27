@@ -8,6 +8,14 @@ Experiência web 3D para uma marca conceito de energético. Explore seis sabores
 
 [**Abrir a demonstração**](https://edy-energy.edy-scanurl-family-worker.workers.dev/) · [Ver os três prelúdios](#três-prelúdios) · [Executar localmente](#executar-localmente)
 
+## Apresentação em vídeo
+
+[![Assistir à apresentação do EDY Energy](assets/edy-energy-apresentacao.jpg)](https://github.com/EDY075/edy-energy/releases/download/apresentacao-2026-11/edy-energy-apresentacao-github.mp4)
+
+[Baixar vídeo de apresentação (MP4)](https://github.com/EDY075/edy-energy/releases/download/apresentacao-2026-11/edy-energy-apresentacao-github.mp4)
+
+O vídeo mostra o carrossel 3D, os seis sabores e a montagem de um pack na loja demonstrativa.
+
 ## Sobre o projeto
 
 O EDY ENERGY explora como uma mesma lata pode conduzir a navegação de uma vitrine inteira. Na abertura, ela faz parte de um carrossel com cores, tipografia e partículas próprias de cada sabor. Na rolagem, muda de posição e enquadramento para acompanhar a apresentação da fórmula e chegar à grade da loja.
